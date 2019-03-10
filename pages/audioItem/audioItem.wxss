@@ -1,0 +1,21 @@
+.audio-box {
+  display: flex;
+  align-items: center;
+  padding-right: 10rpx;
+  justify-content: space-between;
+  border: 1rpx solid #999;
+  border-radius: 6rpx;
+  width: 90%;
+  margin: 0 auto;
+}
+.audio-user{
+  font-size: 26rpx;
+}
+.audio-img {
+  width: 140rpx;
+  height: 140rpx !important;
+}
+
+.audio-btn{
+  margin: 0;
+}

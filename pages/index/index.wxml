@@ -1,0 +1,3 @@
+<view>
+  <audio-item wx:for="{{list}}" audioId="{{audioId}}" info="{{item}}" wx:key="{{index}}" bind:toggleAudioId="toggleAudioId" />
+</view>
